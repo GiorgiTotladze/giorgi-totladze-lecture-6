@@ -1,1 +1,1 @@
-# giorgi-totladze-lecture-6
+# lec_8
