@@ -78,10 +78,53 @@ footer {
 	margin: 0 auto;
 }
 
+h1 {
+	margin-left: 50px;
+	margin-bottom: 32px;
+}
 
+.container3 {
+	width: 362px;
+	height: 171px;
+	margin-left: 50px;
+	background-color: #FFFFFF;
+	position: relative;
+	border-radius: 5px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	padding-top: 68px;
+	padding-left: 32px;
+	padding-right: 84px;
+	color: #8A8787;
+	display: inline-block;
+	
+}
+.container3 img {
+	padding-top: 3px;
+	display: inline-block;
+}
 
+.time {
+	display: inline-block;
+}
 
+.foto {
+	margin-left: 50px;
+	vertical-align: top;
+	display: inline-block;
+}
 
+.foto h2 {
+	display: inline-block;
+	position: absolute;
+	z-index: 10;
+	margin-bottom: 1000px;
+	margin-left: 50px;
+	color: #FFFFFF;
+}
 
-
-
+.foto2 {
+	display: inline-block;
+	margin-left: 942px;
+	vertical-align: top;
+}
