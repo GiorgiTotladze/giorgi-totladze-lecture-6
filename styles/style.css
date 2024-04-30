@@ -118,13 +118,53 @@ h1 {
 	display: inline-block;
 	position: absolute;
 	z-index: 10;
-	margin-bottom: 1000px;
+	margin-left: 50px;
+	color: #FFFFFF;
+	
+}
+
+.foto2 {
+	vertical-align: top;
+	display: inline-block;
+	position: relative;
+	top: 0;
+	padding-left: 50px;
+}
+
+.foto2 h2 {
+	display: inline-block;
+	position: absolute;
+	z-index: 10;
 	margin-left: 50px;
 	color: #FFFFFF;
 }
 
-.foto2 {
+body {
+	font-family: "Roboto", sans-serif;
+}
+
+header {
 	display: inline-block;
-	margin-left: 942px;
-	vertical-align: top;
+	margin-left: 50px;
+	padding: 10px;
+	width: 100vh;
+	height: 0px;
+	position: sticky;
+	top: 0px;
+	z-index: 20;
+}
+header p:not(:first-child){
+	display: inline-block;
+	padding-left: 35px;
+	margin-bottom: 88px;
+	font-weight: 700;
+}
+header p:first-child{
+	display: inline-block;
+	margin-bottom: 88px;
+	font-weight: 700;
+}
+
+header img {
+	display: inline-block;
 }
